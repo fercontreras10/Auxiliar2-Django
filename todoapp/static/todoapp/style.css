@@ -12,7 +12,7 @@ body {
     border-radius: 10px; /* Bordes redondeados */
     padding: 20px;
     box-shadow: 0px 0px 10px 0px rgba(0,0,0,0.1); /* Sombra */
-    max-width: 400px; /* Ancho máximo del contenedor */
+    max-width: 530px; /* Ancho máximo del contenedor */
     width: 100%; /* Para que ocupe todo el ancho disponible */
     box-sizing: border-box; /* Para que el padding no afecte el ancho */
 }
